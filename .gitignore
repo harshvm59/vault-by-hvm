@@ -1,0 +1,6 @@
+deploy/
+.netlify/
+.claude/
+demo.csv
+*.csv
+.DS_Store
